@@ -1,0 +1,87 @@
+2019-04-18 11:05:44 INFO  TestBase:71 - Creating the object of chrome
+2019-04-18 11:07:59 INFO  TestBase:71 - Creating the object of chrome
+2019-04-18 11:08:05 INFO  TestBase:85 - Navigating to https://ascendum.com
+2019-04-18 11:09:10 INFO  TestBase:71 - Creating the object of chrome
+2019-04-18 11:09:18 INFO  TestBase:85 - Navigating to https://ascendum.com
+2019-04-18 11:12:14 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 11:12:20 INFO  TestBase:86 - Navigating to https://ascendum.com
+2019-04-18 11:13:17 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 11:13:21 INFO  TestBase:86 - Navigating to https://ascendum.com
+2019-04-18 11:18:10 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 11:18:19 INFO  TestBase:86 - Navigating to https://ascendum.com
+2019-04-18 11:24:36 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 11:24:41 INFO  TestBase:86 - Navigating to https://ascendum.com
+2019-04-18 14:11:35 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 14:11:43 INFO  TestBase:86 - Navigating to https://ascendum.com
+2019-04-18 14:14:15 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 14:14:22 INFO  TestBase:86 - Navigating to https://ascendum.com
+2019-04-18 14:22:32 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 14:22:39 INFO  TestBase:86 - Navigating to https://ascendum.com
+2019-04-18 14:23:31 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 14:23:36 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-18 14:26:12 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 14:26:16 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-18 14:27:23 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 14:27:29 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-18 14:28:36 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 14:28:41 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-18 14:30:41 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 14:30:46 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-18 14:48:32 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 14:48:37 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-18 14:52:51 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 14:52:55 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-18 14:57:22 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 14:57:27 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-18 15:02:20 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 15:02:25 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-18 15:04:46 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 15:04:51 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-18 15:06:48 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 15:06:52 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-18 15:13:27 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 15:13:33 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-18 15:31:14 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 15:31:29 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-18 15:33:42 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 15:33:48 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-18 15:42:45 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 15:42:51 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-18 15:56:04 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 15:56:09 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-18 15:59:21 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 15:59:28 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-18 16:00:35 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 16:00:41 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-18 23:17:19 INFO  TestBase:72 - Creating the object of chrome
+2019-04-18 23:17:28 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-19 09:06:46 INFO  TestBase:72 - Creating the object of chrome
+2019-04-19 09:06:54 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-19 09:07:55 INFO  TestBase:72 - Creating the object of chrome
+2019-04-19 09:07:59 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-19 09:39:04 INFO  TestBase:72 - Creating the object of chrome
+2019-04-19 09:39:08 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-19 09:56:38 INFO  TestBase:72 - Creating the object of chrome
+2019-04-19 09:56:44 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-19 09:58:35 INFO  TestBase:72 - Creating the object of chrome
+2019-04-19 09:58:42 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-19 10:00:04 INFO  TestBase:72 - Creating the object of chrome
+2019-04-19 10:00:10 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-19 10:01:38 INFO  TestBase:72 - Creating the object of chrome
+2019-04-19 10:01:47 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-19 10:04:35 INFO  TestBase:72 - Creating the object of chrome
+2019-04-19 10:04:42 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-19 10:11:28 INFO  TestBase:72 - Creating the object of chrome
+2019-04-19 10:11:33 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-19 10:21:46 INFO  TestBase:72 - Creating the object of chrome
+2019-04-19 10:21:50 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-19 10:22:47 INFO  TestBase:72 - Creating the object of chrome
+2019-04-19 10:22:51 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-19 10:26:27 INFO  TestBase:72 - Creating the object of chrome
+2019-04-19 10:26:31 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-19 10:32:22 INFO  TestBase:72 - Creating the object of chrome
+2019-04-19 10:32:55 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-19 10:33:19 INFO  TestBase:72 - Creating the object of chrome
+2019-04-19 10:33:51 INFO  TestBase:86 - Navigating to https://www.ascendum.com
+2019-04-19 10:37:25 INFO  TestBase:72 - Creating the object of chrome
+2019-04-19 10:37:30 INFO  TestBase:86 - Navigating to https://www.ascendum.com
