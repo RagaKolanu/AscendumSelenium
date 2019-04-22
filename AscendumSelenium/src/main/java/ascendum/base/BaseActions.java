@@ -24,9 +24,9 @@ public class BaseActions extends TestBase {
         WebElement element = driver.findElement(locator);
         final Boolean checkElementPresent = element.isDisplayed();
         if (checkElementPresent.equals(true)) {
-            System.out.println("The webelement : " + retrieveText(locator) + " is present on the web page.");
+           log.info("The webelement : " + retrieveText(locator) + " is present on the web page.");
         } else {
-            System.out.println("The welelment : " + "" + retrieveText(locator) + "\""
+            log.info("The welelment : " + "" + retrieveText(locator) + "\""
                     + " is miising - There might be some error in loading of the page. Please refresh and try again.");
         }
     }
@@ -43,8 +43,7 @@ public class BaseActions extends TestBase {
             }
 
             if (!url.startsWith(homePage)) {
-                System.out.println(url + " - URL belongs to another domain. Hence, skipping it.");
-                System.out.println("*************************************************************");
+                log.info( url + " - URL belongs to another domain. Hence, skipping it.");
                 continue;
             }
 
@@ -61,14 +60,15 @@ public class BaseActions extends TestBase {
             httpConn.setConnectTimeout(2000);
             httpConn.connect();
 
-            if (httpConn.getResponseCode() == 200) {
-                System.out.println();
+            if (httpConn.getResponseCode() == 200)
+            {
+                log.info(link + " " + httpConn.getResponseMessage() + ". The url is valid");
             }
 
             this.checkFor200Status(httpConn.getResponseCode());
 
             if (httpConn.getResponseCode() >= 300) {
-                System.out.println(link + " - " + httpConn.getResponseMessage() + ". The URL is being redirected");
+                log.info(link + " - " + httpConn.getResponseMessage() + ". The URL is being redirected");
             }
 
             if (httpConn.getResponseCode() >= 400) {
@@ -90,31 +90,31 @@ public class BaseActions extends TestBase {
     public void checkFor200Status(int statusCode) {
         switch (statusCode) {
             case 201: {
-                System.out.println(link + " - Created");
+                log.info(link + " - Created");
             }
             case 202: {
-                System.out.println(link + " - Accepted");
+                log.info(link + " - Accepted");
             }
             case 203: {
-                System.out.println(link + " - Non-Authoritative Information");
+                log.info(link + " - Non-Authoritative Information");
             }
             case 204: {
-                System.out.println(link + " - No Content");
+                log.info(link + " - No Content");
             }
             case 205: {
-                System.out.println(link + " - Reset Content");
+                log.info(link + " - Reset Content");
             }
             case 206: {
-                System.out.println(link + " - Partial Content");
+                log.info(link + " - Partial Content");
             }
             case 207: {
-                System.out.println(link + " - Multi Status (WebDAV)");
+                log.info(link + " - Multi Status (WebDAV)");
             }
             case 208: {
-                System.out.println(link + " - Non-Authoritative Information (WebDAV)");
+                log.info(link + " - Non-Authoritative Information (WebDAV)");
             }
             case 226: {
-                System.out.println(link + " - IM Used");
+                log.info(link + " - IM Used");
             }
         }
 
