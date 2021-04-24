@@ -4,8 +4,8 @@
   <testcase name="searchPhrase" time="0.912" classname="com.qa.ascendum.test.HomePageTest"/>
   <testcase name="validateHomepage" time="71.621" classname="com.qa.ascendum.test.HomePageTest">
     <failure type="java.lang.AssertionError" message="expected [learningtesting blog] but found [testing blog]">
-      <![CDATA[java.lang.AssertionError: expected [learningtesting blog] but found [testing blog]
-at com.qa.ascendum.base.BaseActions.retrievedSearchResults(BaseActions.java:150)
+        <![CDATA[java.lang.AssertionError: expected [learningtesting blog] but found [testing blog]
+at com.ascendum.lopal.base.BaseActions.retrievedSearchResults(BaseActions.java:150)
 at com.qa.ascendum.pageActions.HomePageActions.searchData(HomePageActions.java:32)
 at com.qa.ascendum.test.HomePageTest.validateHomepage(HomePageTest.java:19)
 ... Removed 31 stack frames]]>

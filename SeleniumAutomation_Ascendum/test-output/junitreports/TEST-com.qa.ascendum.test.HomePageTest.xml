@@ -4,14 +4,14 @@
   <testcase name="searchPhrase" time="0.912" classname="com.qa.ascendum.test.HomePageTest"/>
   <testcase name="validateHomepage" time="71.621" classname="com.qa.ascendum.test.HomePageTest">
     <failure type="java.lang.AssertionError" message="expected [learningtesting blog] but found [testing blog]">
-      <![CDATA[java.lang.AssertionError: expected [learningtesting blog] but found [testing blog]
+        <![CDATA[java.lang.AssertionError: expected [learningtesting blog] but found [testing blog]
 at org.testng.Assert.fail(Assert.java:96)
 at org.testng.Assert.failNotEquals(Assert.java:776)
 at org.testng.Assert.assertEqualsImpl(Assert.java:137)
 at org.testng.Assert.assertEquals(Assert.java:118)
 at org.testng.Assert.assertEquals(Assert.java:453)
 at org.testng.Assert.assertEquals(Assert.java:463)
-at com.qa.ascendum.base.BaseActions.retrievedSearchResults(BaseActions.java:150)
+at com.ascendum.lopal.base.BaseActions.retrievedSearchResults(BaseActions.java:150)
 at com.qa.ascendum.pageActions.HomePageActions.searchData(HomePageActions.java:32)
 at com.qa.ascendum.test.HomePageTest.validateHomepage(HomePageTest.java:19)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)

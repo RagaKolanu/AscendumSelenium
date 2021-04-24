@@ -660,3 +660,571 @@
 2019-04-23 00:19:31 INFO  TestBase:47 - https://plus.google.com/+AscendumSolutionsLLCCincinnati/about - URL belongs to another domain. Hence, skipping it.
 2019-04-23 00:19:31 INFO  TestBase:47 - mailto:info@ascendum.com - URL belongs to another domain. Hence, skipping it.
 2019-04-23 00:19:31 INFO  TestBase:47 - mailto:info@ascendum.com - URL belongs to another domain. Hence, skipping it.
+2021-04-22 19:51:30 INFO  ExcelOperations:38 - Data in the cell is : blog
+2021-04-22 19:51:30 INFO  ExcelOperations:38 - Data in the cell is : Developer
+2021-04-22 19:51:30 INFO  ExcelOperations:38 - Data in the cell is : 3
+2021-04-22 19:51:30 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-22 19:51:30 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-22 19:51:30 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-22 19:53:10 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-22 19:53:10 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-22 19:53:10 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-22 19:53:10 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-22 19:53:10 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-22 19:53:10 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 09:23:57 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 09:23:57 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 09:23:57 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 09:23:57 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 09:23:57 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 09:23:57 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 09:23:57 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 09:23:57 INFO  ExcelOperations:38 - Data in the cell is : LinkedIn
+2021-04-23 09:23:57 INFO  ExcelOperations:48 - Websites to validate : LinkedIn
+2021-04-23 09:23:57 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 09:23:57 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 09:23:57 INFO  ExcelOperations:48 - Websites to validate : LinkedIn
+2021-04-23 09:23:57 INFO  ExcelOperations:48 - Websites to validate : Zillow
+2021-04-23 09:23:57 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 09:23:57 INFO  ExcelOperations:48 - Websites to validate : LinkedIn
+2021-04-23 09:23:57 INFO  ExcelOperations:48 - Websites to validate : Zillow
+2021-04-23 09:23:57 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 09:23:57 INFO  ExcelOperations:48 - Websites to validate : LinkedIn
+2021-04-23 09:23:57 INFO  ExcelOperations:48 - Websites to validate : Zillow
+2021-04-23 09:23:57 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 09:23:57 INFO  ExcelOperations:48 - Websites to validate : LinkedIn
+2021-04-23 09:23:57 INFO  ExcelOperations:48 - Websites to validate : Zillow
+2021-04-23 09:25:05 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 09:25:05 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 09:25:05 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 09:25:05 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 09:25:05 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 09:25:05 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 09:25:05 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 09:25:05 INFO  ExcelOperations:38 - Data in the cell is : LinkedIn
+2021-04-23 09:25:05 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 09:25:05 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 09:25:05 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 09:25:05 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 09:25:05 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 09:25:05 INFO  ExcelOperations:49 - Websites to validate : LinkedIn
+2021-04-23 09:25:05 INFO  ExcelOperations:49 - Websites to validate : Zillow
+2021-04-23 11:09:08 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 11:10:03 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 11:10:04 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 11:10:04 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 11:10:04 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 11:10:04 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 11:10:04 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 11:10:04 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 11:10:04 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 11:10:04 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 11:10:04 INFO  ExcelOperations:38 - Data in the cell is : LinkedIn
+2021-04-23 11:10:04 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 11:10:04 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 11:10:04 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 11:10:04 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 11:10:04 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 11:10:04 INFO  TestBase:57 - Websites to validate : LinkedIn
+2021-04-23 11:10:04 INFO  TestBase:57 - Websites to validate : Zillow
+2021-04-23 11:12:18 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 11:12:19 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 11:12:19 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 11:12:19 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 11:12:19 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 11:12:19 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 11:12:19 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 11:12:19 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 11:12:19 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 11:12:19 INFO  ExcelOperations:38 - Data in the cell is : LinkedIn
+2021-04-23 11:12:19 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 11:12:19 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 11:12:19 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 11:12:19 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 11:12:19 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 11:12:19 INFO  TestBase:57 - Websites to validate : LinkedIn
+2021-04-23 11:12:19 INFO  TestBase:57 - Websites to validate : Zillow
+2021-04-23 11:58:02 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 11:58:03 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 11:58:03 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 11:58:03 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 11:58:03 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 11:58:03 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 11:58:03 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 11:58:03 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 11:58:03 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 11:58:03 INFO  ExcelOperations:38 - Data in the cell is : LinkedIn
+2021-04-23 12:10:04 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 12:10:05 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 12:10:05 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 12:10:05 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 12:10:05 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 12:10:05 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 12:10:05 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 12:10:05 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 12:10:05 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 12:10:05 INFO  ExcelOperations:38 - Data in the cell is : LinkedIn
+2021-04-23 12:10:05 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 12:10:05 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 12:10:05 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:10:05 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:10:05 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:10:05 INFO  TestBase:65 - Websites to validate : LinkedIn
+2021-04-23 12:10:05 INFO  TestBase:65 - Websites to validate : Zillow
+2021-04-23 12:14:48 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 12:14:49 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 12:14:49 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 12:14:49 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 12:14:49 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 12:14:49 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 12:14:49 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 12:14:49 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 12:14:49 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 12:14:49 INFO  ExcelOperations:38 - Data in the cell is : LinkedIn
+2021-04-23 12:14:49 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:14:49 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:14:49 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:14:49 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:14:49 INFO  TestBase:65 - Websites to validate : LinkedIn
+2021-04-23 12:38:05 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 12:38:06 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 12:38:06 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 12:38:06 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 12:38:06 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 12:38:06 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 12:38:06 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 12:38:06 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 12:38:06 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:38:06 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 12:38:06 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 12:38:06 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:38:06 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:38:06 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:38:06 INFO  TestBase:71 - Websites to validate : Zillow
+2021-04-23 12:38:48 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 12:38:49 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 12:38:49 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 12:38:49 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 12:38:49 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 12:38:49 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 12:38:49 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 12:38:49 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 12:38:49 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:38:49 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 12:38:49 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 12:38:49 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:38:49 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:38:49 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:38:49 INFO  TestBase:71 - Websites to validate : Zillow
+2021-04-23 12:39:31 INFO  TestBase:39 - Found 0 matching links
+2021-04-23 12:41:15 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 12:41:16 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 12:41:16 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 12:41:16 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 12:41:16 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 12:41:16 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 12:41:16 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 12:41:16 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 12:41:16 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:41:16 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 12:41:16 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 12:41:16 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:41:16 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:41:16 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:41:16 INFO  TestBase:70 - Websites to validate : Zillow
+2021-04-23 12:41:58 INFO  TestBase:38 - Found 0 matching links
+2021-04-23 12:43:41 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 12:43:42 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 12:43:42 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 12:43:42 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 12:43:42 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 12:43:42 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 12:43:42 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 12:43:42 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 12:43:42 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:43:42 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 12:43:42 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 12:43:42 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:43:42 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:43:42 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 12:43:42 INFO  TestBase:70 - Websites to validate : Zillow
+2021-04-23 12:43:44 INFO  TestBase:38 - Found 2 matching links
+2021-04-23 13:01:16 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 13:01:17 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 13:01:17 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 13:01:17 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 13:01:17 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 13:01:17 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 13:01:17 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 13:01:17 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 13:01:17 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 13:01:17 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 13:01:17 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 13:01:17 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 13:01:17 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 13:01:17 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 13:01:17 INFO  TestBase:79 - Websites to validate : Zillow
+2021-04-23 13:01:20 INFO  TestBase:38 - Found 2 matching links
+2021-04-23 14:37:34 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 14:37:41 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 14:37:41 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 14:37:41 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 14:37:41 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 14:37:41 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 14:37:41 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 14:37:41 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 14:37:41 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 14:37:41 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 14:37:41 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 14:37:41 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 14:37:41 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 14:37:41 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 14:37:41 INFO  TestBase:82 - Websites to validate : Zillow
+2021-04-23 14:37:43 INFO  TestBase:38 - Found 2 matching links
+2021-04-23 14:46:09 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 14:46:10 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 14:46:10 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 14:46:10 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 14:46:10 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 14:46:10 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 14:46:10 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 14:46:10 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 14:46:10 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 14:46:10 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 14:46:10 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 14:46:10 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 14:46:10 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 14:46:10 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 14:46:10 INFO  TestBase:83 - Websites to validate : Zillow
+2021-04-23 14:46:13 INFO  TestBase:38 - Found 2 matching links
+2021-04-23 14:46:53 INFO  TestBase:44 - 0
+2021-04-23 14:53:12 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 14:53:14 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 14:53:14 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 14:53:14 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 14:53:14 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 14:53:14 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 14:53:14 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 14:53:14 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 14:53:14 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 14:53:14 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 14:53:14 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 14:53:14 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 14:53:14 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 14:53:14 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 14:53:14 INFO  TestBase:83 - Websites to validate : Zillow
+2021-04-23 14:53:16 INFO  TestBase:38 - Found 2 matching links
+2021-04-23 14:56:07 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 14:56:08 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 14:56:08 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 14:56:08 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 14:56:08 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 14:56:08 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 14:56:08 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 14:56:08 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 14:56:08 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 14:56:08 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 14:56:08 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 14:56:08 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 14:56:08 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 14:56:08 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 14:56:08 INFO  TestBase:83 - Websites to validate : Zillow
+2021-04-23 14:56:11 INFO  TestBase:38 - Found 2 matching links
+2021-04-23 16:51:36 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 16:51:37 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 16:51:37 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 16:51:37 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 16:51:37 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 16:51:37 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 16:51:37 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 16:51:37 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 16:51:37 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 16:51:37 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 16:51:37 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 16:51:37 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 16:51:37 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 16:51:37 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 16:51:37 INFO  TestBase:83 - Websites to validate : Zillow
+2021-04-23 16:51:39 INFO  TestBase:38 - Found 2 matching links
+2021-04-23 16:51:39 INFO  TestBase:46 - Web results
+
+Visit David Alan Fernandes's profile on Zillow to read ...
+https://www.zillow.com › ... › California › Roseville
+
+David Alan Fernandes. Sr. Mortgage Specialist NMLS# 234160 ... David Alan Fernandes Thank you Veenu for the great review. You were a pleasure to work ...
+Rating: 5 · 25 votes
+2021-04-23 17:58:06 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 17:58:07 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 17:58:08 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 17:58:08 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 17:58:08 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 17:58:08 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 17:58:08 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 17:58:08 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 17:58:08 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 17:58:08 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 17:58:08 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 17:58:08 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 17:58:08 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 17:58:08 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 17:58:08 INFO  TestBase:102 - Websites to validate : Zillow
+2021-04-23 17:58:10 INFO  TestBase:39 - Found 2 matching links
+2021-04-23 17:58:36 INFO  TestBase:49 - Web results
+
+Visit David Alan Fernandes's profile on Zillow to read ...
+https://www.zillow.com › ... › California › Roseville
+
+David Alan Fernandes. Sr. Mortgage Specialist NMLS# 234160 ... David Alan Fernandes Thank you Veenu for the great review. You were a pleasure to work ...
+Rating: 5 · 25 votes
+2021-04-23 17:59:05 INFO  TestBase:49 - Search for Roseville Heights Roseville, CA mortgage lenders ...
+https://www.zillow.com › ... › California
+
+Enter location, name, or preferred language to start a new search ... NMLS# 355055 ... NMLS# 1144938 ... David Alan Fernandes. NMLS# 234160 ... Find a Roseville Heights Roseville, CA lender on Zillow who can help you get pre-qualified.
+2021-04-23 17:59:36 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 17:59:37 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 17:59:37 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 17:59:37 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 17:59:37 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 17:59:37 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 17:59:37 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 17:59:37 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 17:59:37 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 17:59:37 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 17:59:37 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 17:59:37 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 17:59:37 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 17:59:37 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 17:59:37 INFO  TestBase:102 - Websites to validate : Zillow
+2021-04-23 17:59:39 INFO  TestBase:39 - Found 2 matching links
+2021-04-23 17:59:45 INFO  TestBase:49 - Web results
+
+Visit David Alan Fernandes's profile on Zillow to read ...
+https://www.zillow.com › ... › California › Roseville
+
+David Alan Fernandes. Sr. Mortgage Specialist NMLS# 234160 ... David Alan Fernandes Thank you Veenu for the great review. You were a pleasure to work ...
+Rating: 5 · 25 votes
+2021-04-23 18:01:09 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 18:01:10 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 18:01:10 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 18:01:10 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 18:01:10 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 18:01:10 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 18:01:10 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 18:01:10 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 18:01:10 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 18:01:10 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 18:01:10 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 18:01:10 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 18:01:10 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 18:01:10 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 18:01:10 INFO  TestBase:103 - Websites to validate : Zillow
+2021-04-23 18:01:12 INFO  TestBase:39 - Found 2 matching links
+2021-04-23 18:01:17 INFO  TestBase:49 - Web results
+
+Visit David Alan Fernandes's profile on Zillow to read ...
+https://www.zillow.com › ... › California › Roseville
+
+David Alan Fernandes. Sr. Mortgage Specialist NMLS# 234160 ... David Alan Fernandes Thank you Veenu for the great review. You were a pleasure to work ...
+Rating: 5 · 25 votes
+2021-04-23 18:08:34 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 18:08:35 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 18:08:35 INFO  ExcelOperations:38 - Data in the cell is : 814268
+2021-04-23 18:08:35 INFO  ExcelOperations:38 - Data in the cell is : Megan Reeves
+2021-04-23 18:08:35 INFO  ExcelOperations:38 - Data in the cell is : 6671 S. Las Vegas Blvd. Bldg D/Ste 210/Office 276
+2021-04-23 18:08:35 INFO  ExcelOperations:38 - Data in the cell is : Las Vegas
+2021-04-23 18:08:35 INFO  ExcelOperations:38 - Data in the cell is : NV
+2021-04-23 18:08:35 INFO  ExcelOperations:38 - Data in the cell is : 89119
+2021-04-23 18:08:35 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 18:08:35 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 18:08:35 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 18:08:35 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 18:08:35 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 18:08:35 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 18:08:35 INFO  TestBase:103 - Websites to validate : Zillow
+2021-04-23 18:08:37 INFO  TestBase:39 - Found 6 matching links
+2021-04-23 18:08:37 INFO  TestBase:49 - Web results
+
+Premier Mortgage Resources - Zillow
+https://www.zillow.com › ... › Oregon › Sisters
+
+... Resources. NMLS# 1169 ... debbie reevesjensen from Troutdale, OR | worked with Scott Baumer, who no longer works for Premier Mortgage Resources.
+Rating: 4.9 · 252 votes
+Missing: Megan 814268
+2021-04-23 19:52:56 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 19:52:57 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 19:52:57 INFO  ExcelOperations:38 - Data in the cell is : 814268
+2021-04-23 19:52:57 INFO  ExcelOperations:38 - Data in the cell is : Megan Reeves
+2021-04-23 19:52:57 INFO  ExcelOperations:38 - Data in the cell is : 6671 S. Las Vegas Blvd. Bldg D/Ste 210/Office 276
+2021-04-23 19:52:57 INFO  ExcelOperations:38 - Data in the cell is : Las Vegas
+2021-04-23 19:52:57 INFO  ExcelOperations:38 - Data in the cell is : NV
+2021-04-23 19:52:57 INFO  ExcelOperations:38 - Data in the cell is : 89119
+2021-04-23 19:52:57 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 19:52:57 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 19:52:57 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 19:52:57 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 19:52:57 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 19:52:57 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 19:52:57 INFO  TestBase:118 - Websites to validate : Zillow
+2021-04-23 19:52:58 INFO  TestBase:39 - Found 6 matching links
+2021-04-23 19:53:03 INFO  TestBase:50 - Web results
+
+Premier Mortgage Resources - Zillow
+https://www.zillow.com › ... › Oregon › Sisters
+
+... Resources. NMLS# 1169 ... debbie reevesjensen from Troutdale, OR | worked with Scott Baumer, who no longer works for Premier Mortgage Resources.
+Rating: 4.9 · 252 votes
+Missing: Megan 814268
+2021-04-23 19:53:05 INFO  TestBase:54 - 271
+2021-04-23 19:53:06 INFO  TestBase:55 - 292
+2021-04-23 19:53:33 INFO  TestBase:58 - Missing: Megan 814268
+2021-04-23 20:16:16 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 20:16:18 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 20:16:18 INFO  ExcelOperations:38 - Data in the cell is : 814268
+2021-04-23 20:16:18 INFO  ExcelOperations:38 - Data in the cell is : Megan Reeves
+2021-04-23 20:16:18 INFO  ExcelOperations:38 - Data in the cell is : 6671 S. Las Vegas Blvd. Bldg D/Ste 210/Office 276
+2021-04-23 20:16:18 INFO  ExcelOperations:38 - Data in the cell is : Las Vegas
+2021-04-23 20:16:18 INFO  ExcelOperations:38 - Data in the cell is : NV
+2021-04-23 20:16:18 INFO  ExcelOperations:38 - Data in the cell is : 89119
+2021-04-23 20:16:18 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 20:16:18 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 20:16:18 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 20:16:18 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 20:16:18 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 20:16:18 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 20:16:18 INFO  TestBase:111 - Websites to validate : Zillow
+2021-04-23 20:16:21 INFO  TestBase:39 - Found 6 matching links
+2021-04-23 20:16:21 INFO  TestBase:50 - Web results
+
+Premier Mortgage Resources - Zillow
+www.zillow.com › Lender Directory › Oregon › Sisters
+
+... Resources. NMLS# 1169 ... debbie reevesjensen from Troutdale, OR | worked with Scott Baumer, who no longer works for Premier Mortgage Resources.
+Rating: 4.9 · 252 votes
+Missing: Megan 814268
+2021-04-23 20:16:21 INFO  TestBase:55 - Missing: Megan 814268
+2021-04-23 20:26:01 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 20:26:03 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 20:26:03 INFO  ExcelOperations:38 - Data in the cell is : 814268
+2021-04-23 20:26:03 INFO  ExcelOperations:38 - Data in the cell is : Megan Reeves
+2021-04-23 20:26:03 INFO  ExcelOperations:38 - Data in the cell is : 6671 S. Las Vegas Blvd. Bldg D/Ste 210/Office 276
+2021-04-23 20:26:03 INFO  ExcelOperations:38 - Data in the cell is : Las Vegas
+2021-04-23 20:26:03 INFO  ExcelOperations:38 - Data in the cell is : NV
+2021-04-23 20:26:03 INFO  ExcelOperations:38 - Data in the cell is : 89119
+2021-04-23 20:26:03 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 20:26:03 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 20:26:03 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 20:26:03 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 20:26:03 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 20:26:03 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 20:26:03 INFO  TestBase:124 - Websites to validate : Zillow
+2021-04-23 20:26:04 INFO  TestBase:39 - Found 6 matching links
+2021-04-23 20:26:04 INFO  TestBase:50 - Web results
+
+Premier Mortgage Resources - Zillow
+https://www.zillow.com › ... › Oregon › Sisters
+
+... Resources. NMLS# 1169 ... debbie reevesjensen from Troutdale, OR | worked with Scott Baumer, who no longer works for Premier Mortgage Resources.
+Rating: 4.9 · 252 votes
+Missing: Megan 814268
+2021-04-23 20:26:04 INFO  TestBase:55 - Missing: Megan 814268
+2021-04-23 20:26:04 INFO  TestBase:50 - Reeves County TX Single Family Homes For Sale - 25 ... - Zillow
+https://www.zillow.com › reeves-county-tx › houses
+
+25 single family homes for sale in Reeves County TX. View pictures of homes, review sales history, and use our detailed filters to find the perfect place.
+Missing: Megan NMLS 814268
+2021-04-23 20:26:04 INFO  TestBase:55 - Missing: Megan NMLS 814268
+2021-04-23 20:26:04 INFO  TestBase:50 - Homefinity - Zillow
+https://www.zillow.com › ... › Wisconsin › Madison
+
+NMLS# 2289 ... JDH from Irving, TX | worked with Donna Joy Reeves ... Any use of this information that violates the NMLS B2B Access Terms of Use is strictly ...
+Rating: 4.9 · 412 votes
+Missing: Megan 814268
+2021-04-23 20:26:04 INFO  TestBase:55 - Missing: Megan 814268
+2021-04-23 20:26:04 INFO  TestBase:50 - JOHN WADE - Zillow
+https://www.zillow.com › ... › California › Calabasas
+
+Fairway Independent Mortgage Corporation NMLS #2289 https://www.nmlsconsumeraccess.org/. Show more ... Molly Reeves from Rancho Cucamonga, CA.
+Rating: 5 · 30 votes
+Missing: Megan 814268
+2021-04-23 20:26:04 INFO  TestBase:55 - Missing: Megan 814268
+2021-04-23 20:26:04 INFO  TestBase:50 - Search for Scroggins, TX mortgage lenders and read ...
+https://www.zillow.com › ... › Lender Directory › Texas
+
+Bethany Ashby. NMLS# 311473 ... Kenneth Travis. NMLS# 233918 ... L HOLYFIELD. NMLS# 210861 ... Seth M. Reeves. NMLS# ... NMLS# 1293244 ... Find a Scroggins, TX lender on Zillow who can help you get pre-qualified. Scroggins, TX ...
+Missing: Megan 814268
+2021-04-23 20:26:04 INFO  TestBase:55 - Missing: Megan 814268
+2021-04-23 20:26:05 INFO  TestBase:50 - Michael McDermott - Zillow
+https://www.zillow.com › ... › Arizona › Phoenix
+
+... Home Loans. Michael McDermott. Branch Manager / Sr. Loan OfficerNMLS# 184065 ... Tammy Reeves from Sun City, AZ. My experience with Bay Equity was ...
+Rating: 5 · 303 votes
+Missing: Megan 814268
+2021-04-23 20:26:05 INFO  TestBase:55 - Missing: Megan 814268
+2021-04-23 22:52:01 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 22:52:03 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 22:52:03 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 22:52:03 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 22:52:03 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 22:52:03 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 22:52:03 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 22:52:03 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 22:52:03 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 22:52:03 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 22:52:03 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 22:52:03 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 22:52:03 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 22:52:03 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 22:52:03 INFO  TestBase:113 - Websites to validate : Zillow
+2021-04-23 22:52:05 INFO  TestBase:39 - Found 2 matching links
+2021-04-23 22:52:05 INFO  TestBase:50 - Web results
+
+Visit David Alan Fernandes's profile on Zillow to read ...
+https://www.zillow.com › ... › California › Roseville
+
+David Alan Fernandes. Sr. Mortgage Specialist NMLS# 234160 ... David Alan Fernandes Thank you Veenu for the great review. You were a pleasure to work ...
+Rating: 5 · 25 votes
+2021-04-23 22:52:36 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 22:52:37 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 22:52:38 INFO  ExcelOperations:38 - Data in the cell is : 234160
+2021-04-23 22:52:38 INFO  ExcelOperations:38 - Data in the cell is : David Alan Fernandes
+2021-04-23 22:52:38 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 22:52:38 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 22:52:38 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 22:52:38 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 22:52:38 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 22:52:38 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 22:52:38 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 22:52:38 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 22:52:38 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 22:52:38 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 22:52:38 INFO  TestBase:113 - Websites to validate : Zillow
+2021-04-23 22:52:40 INFO  TestBase:39 - Found 2 matching links
+2021-04-23 22:52:40 INFO  TestBase:50 - Web results
+
+Visit David Alan Fernandes's profile on Zillow to read ...
+https://www.zillow.com › ... › California › Roseville
+
+David Alan Fernandes. Sr. Mortgage Specialist NMLS# 234160 ... David Alan Fernandes Thank you Veenu for the great review. You were a pleasure to work ...
+Rating: 5 · 25 votes
+2021-04-23 22:56:49 INFO  TestBase:55 - Creating the object of chrome
+2021-04-23 22:56:50 INFO  TestBase:67 - Navigating to https://www.google.com
+2021-04-23 22:56:50 INFO  ExcelOperations:38 - Data in the cell is : 1604749
+2021-04-23 22:56:50 INFO  ExcelOperations:38 - Data in the cell is : LaShawn​ Pritchett
+2021-04-23 22:56:50 INFO  ExcelOperations:38 - Data in the cell is : 1000 Enterprise Way Suite 200
+2021-04-23 22:56:50 INFO  ExcelOperations:38 - Data in the cell is : Roseville
+2021-04-23 22:56:50 INFO  ExcelOperations:38 - Data in the cell is : CA
+2021-04-23 22:56:50 INFO  ExcelOperations:38 - Data in the cell is : 95678
+2021-04-23 22:56:50 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 22:56:50 INFO  ExcelOperations:38 - Data in the cell is : Yes
+2021-04-23 22:56:50 INFO  ExcelOperations:38 - Data in the cell is : Zillow
+2021-04-23 22:56:50 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 22:56:50 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 22:56:50 INFO  ExcelOperations:38 - Data in the cell is : 
+2021-04-23 22:56:50 INFO  TestBase:113 - Websites to validate : Zillow
+2021-04-23 22:56:52 INFO  TestBase:39 - Found 2 matching links
+2021-04-23 22:56:52 INFO  TestBase:50 - Web results
+
+Visit La Shawn Denise Pritchett's profile on Zillow to read ...
+https://www.zillow.com › ... › California › Roseville
+
+Visit La Shawn Denise Pritchett's profile on Zillow to read customer ratings and reviews. Find great ... Sr. Mortgage SpecialistNMLS# 1604749. Message La ...
